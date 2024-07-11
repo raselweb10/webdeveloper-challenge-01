@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+ 
+ *{
+    
+ }
+ body{
+    font-family: "Azeret Mono", monospace;
+ }
+ /* banner section style */
+.banner-section{
+   max-width: 1920px;
+   height: 940px;
+   border:2px solid red;
+   background-image: url(../assets/Hero-bg.png);
+}
+.banner-section p img{
+   width:319px;
+   height:338px;
+}
